@@ -9,6 +9,7 @@ int *fetchData() {
 
 void processData(int data[]) {
   // process data...
+  // improve process algorithm
 }
 
 void showData(int data[]) {
