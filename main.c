@@ -11,9 +11,13 @@ void processData(int data[]) {
   // process data...
 }
 
+void showData(int data[]) {
+  // print data...
+}
+
 int main () {
   int *data = fetchData();
   processData(data);
-
+  showData(data);
   return 0;
 }
