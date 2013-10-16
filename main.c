@@ -9,6 +9,7 @@ int *fetchData() {
 
 void processData(int data[]) {
   // process data...
+  // using parallel mechanism to divide task to each CPU
 }
 
 void showData(int data[]) {
