@@ -1,1 +1,2 @@
-#include <hadoop_api.c>
+#include <hadoop_api.c> 
+int a;
